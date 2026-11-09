@@ -8,33 +8,33 @@
   ],
   "price": "$999",
   "installment": "$89/mo. for 12 mo.",
-  "hero": "nearlight-hero.svg",
+  "hero": "nearlight-1.png",
   "sections": [
     {
       "title": "Come a little closer.",
       "images": [
-        "nearlight-relationship.svg"
+        "nearlight-2.png"
       ],
       "text": "Nearlight brightens when someone sits close enough to whisper. If you leave mid-sentence, it dims the room and keeps a little light on where your face used to be."
     },
     {
       "title": "The room remembers.",
       "images": [
-        "nearlight-trace.svg"
+        "nearlight-3.png"
       ],
       "text": "Over time, a faint amber stain appears where you tend to sit. It grows darker after long conversations. New owners inherit the stains and sometimes arrange their furniture around them."
     },
     {
       "title": "Give it a night off.",
       "images": [
-        "nearlight-maintenance.svg"
+        "nearlight-4.png"
       ],
       "text": "Once a week, wrap the bulb in a clean cloth and leave it unplugged until morning. The manual calls this a cooling cycle. Owners tend to call it a little privacy."
     },
     {
       "title": "Keep the glow.",
       "images": [
-        "nearlight-afterlife.svg"
+        "nearlight-5.png"
       ],
       "text": "When the lamp can no longer bend, its bulb transfers to a two-socket stand. It holds a dim copy of its last room. The second socket stays empty until another Nearlight wears out."
     }
