@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 500">
+  <defs><linearGradient id="paper" x2="0" y2="1"><stop stop-color="#f6f6f8"/><stop offset="1" stop-color="#e5e6ed"/></linearGradient></defs>
+  <rect width="1100" height="500" fill="url(#paper)"/>
+  <path d="M0 373h1100" stroke="#d6d7e0"/>
+  <g fill="none" stroke="#727785" stroke-width="2">
+    <path d="M185 351V231q0-24 24-24h155q24 0 24 24v120zM201 354v12m171-12v12M210 233h150v89H210z"/>
+    <circle cx="285" cy="277" r="26"/><circle cx="285" cy="277" r="9"/>
+    <path d="M504 359h139m-67-2V151q0-28-28-28h-36q-26 0-26 26v37m-16 0h32v24h-32z"/>
+    <path d="M472 210c-6 13-12 24-12 35a26 26 0 0 0 52 0c0-11-6-22-12-35"/>
+    <ellipse cx="576" cy="357" rx="73" ry="9"/>
+    <path d="M756 363h146l-16-152H772zm20-153v-18h105v18m16 12q67-5 51 56-10 36-51 39m-128-75-63-29 55 85"/>
+  </g>
+  <g fill="#727785" font-size="13" font-family="monospace" text-anchor="middle"><text x="285" y="407">FIG. 01</text><text x="576" y="407">FIG. 02</text><text x="828" y="407">FIG. 03</text></g>
+</svg>

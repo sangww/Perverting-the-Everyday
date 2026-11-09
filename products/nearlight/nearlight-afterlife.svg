@@ -1,0 +1,31 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 562'><defs>
+ <linearGradient id="chrome"><stop stop-color="#505158"/><stop offset=".42" stop-color="#f2f2f4"/><stop offset=".75" stop-color="#a8a9af"/><stop offset="1" stop-color="#57585d"/></linearGradient>
+ <linearGradient id="wood" x2="0%" y2="100%"><stop stop-color="#ad7756"/><stop offset="1" stop-color="#513128"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#ffd484" stop-opacity=".9"/><stop offset="1" stop-color="#ffd484" stop-opacity="0"/></radialGradient>
+ <g id="bulb">
+  <path d="M-22 0h44v25h-44z" rx="5" fill="#232327"/>
+  <path d="M-16 25c0 20-14 28-14 48a30 30 0 0 0 60 0c0-20-14-28-14-48z" fill="#ffc982" fill-opacity=".3" stroke="#d3b091" stroke-width="2"/>
+  <path d="M-9 35v44h18V35M-5 45v27m5-27v27m5-27v27" fill="none" stroke="#ffaf4c" stroke-width="2"/>
+  <path d="M-20 64q-4 10 1 18" fill="none" stroke="#fff" opacity=".64" stroke-width="3" stroke-linecap="round"/>
+ </g>
+ <g id="lamp">
+  <ellipse cx="93" cy="281" rx="91" ry="16" fill="#171212" opacity=".18"/>
+  <path d="M-101 269c102 44 141-57 249-34 45 10 94 15 162 1" stroke="#2b2928" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <path d="M39 256v17a55 15 0 0 0 110 0v-17" fill="url(#wood)"/>
+  <ellipse cx="94" cy="256" rx="55" ry="13" fill="#bc8762"/>
+  <path d="M95 255V20q0-38-37-38H23Q0-18 0 8v23" stroke="url(#chrome)" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <use href="#bulb" transform="translate(0 22)"/>
+  <path d="m-140 250 61-11 41 12v20l-62 12-40-13z" fill="url(#wood)"/>
+  <path d="m-140 250 61-11 41 12-62 12z" fill="#ad7b5d"/>
+  <circle cx="-88" cy="251" r="3" fill="#ffce81"/>
+ </g>
+</defs><rect width="1000" height="562" fill="#443832"/>
+<path d="M52 0h290v266H52z" fill="#8a9991"/>
+<path d="M197 0v266M52 124h290" stroke="#534c43" stroke-width="9"/>
+<path d="M0 376h1000v186H0z" fill="url(#wood)"/>
+<ellipse cx="504" cy="428" rx="315" ry="54" fill="url(#glow)" opacity=".7"/>
+<circle cx="429" cy="270" r="166" fill="url(#glow)" opacity=".8"/>
+<path d="m331 378 233-25 117 37v39l-233 27-117-42z" fill="url(#wood)"/>
+<path d="m331 378 233-25 117 37-233 27z" fill="#a06a49"/>
+<use href="#bulb" transform="translate(435 379) rotate(180) scale(1.4)"/>
+<use href="#bulb" transform="translate(560 369) rotate(180) scale(1.4)" opacity=".55"/></svg>
