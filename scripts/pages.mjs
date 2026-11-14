@@ -1,3 +1,4 @@
+import { fishbowlPage } from './fishbowl.mjs'
 const escape = value => String(value).replace(/[&<>"']/g, character => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
 })[character])
@@ -65,6 +66,7 @@ export function catalogue(products, collectionImage) {
 }
 
 export function productPage(product) {
+  if (product.slug === "fishbowl") return fishbowlPage()
   const name = escape(product.name)
   const { sections } = product
   const header = `<header class="top product-top"><nav class="frame" aria-label="Product">
