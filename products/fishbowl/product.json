@@ -1,0 +1,45 @@
+{
+  "name": "Fishbowl",
+  "category": "Personal reality",
+  "pitch": [
+    "Ignorance is bliss.",
+    "Your world. Beautifully filtered."
+  ],
+  "price": "TBD",
+  "hero": {
+    "image": "hardware.png",
+    "alt": "Fishbowl campaign: Ignorance is bliss. Transparent aqua-ringed contact lenses and pearl-white earpieces float above a shared white compact case."
+  },
+  "sections": [
+    {
+      "title": "A world of your own making.",
+      "images": [
+        {
+          "image": "lifestyle.png",
+          "alt": "A Fishbowl wearer sits at a café as the city outside becomes covered in flowers. Her filter stack combines Everyday Grace, Cottagecore, and Good News Only, with immersion set to 70 percent."
+        }
+      ],
+      "text": "Fishbowl puts an almost invisible layer between you and everything else. Transparent contact lenses bring your chosen filters into view; optional pearl-white earpieces bring the sound of your world into harmony with what you see. Both rest in one shared compact. Subscribe to the perspectives that feel like you, combine them in your own order, and adjust the immersion from subtle to complete."
+    },
+    {
+      "title": "Find your kind of world.",
+      "images": [
+        {
+          "image": "collection.webp",
+          "alt": "The same city street through three Fishbowl subscriptions: Everyday Grace emphasizes a church and scripture, Cottagecore covers buildings with flowers, and Good News Only replaces headlines with cheerful neighborhood updates."
+        }
+      ],
+      "text": "One Fishbowl. Many ways to see. Everyday Grace highlights places of worship, replaces advertising with scripture, and turns difficult encounters into moments of reflection. Cottagecore brings botanical facades, pastoral textures, and optional birdsong to your daily commute. Good News Only replaces distressing headlines and unsettling encounters with reassuring neighborhood updates. Keep your favorites together in a filter stack. Higher filters take priority when two perspectives disagree about what you should see."
+    },
+    {
+      "title": "Design a reality filter.",
+      "images": [
+        {
+          "image": "studio.webp",
+          "alt": "Fishbowl Studio concept showing visual, audio, and behavioral rules, a city-street preview, and a subscriber stack. A conflict notice explains that Good News Only may hide encounters used by Everyday Grace for reflection."
+        }
+      ],
+      "text": "Fishbowl Studio lets publishers choose what a filter detects and how it changes the scene. Define visual, audio, and behavioral responses, preview them on an everyday street, then test your design in a subscriber’s stack before publishing. Good News Only might hide the very encounter Everyday Grace uses to invite reflection. Inspect the conflict and choose which perspective takes priority. Your world follows your order."
+    }
+  ]
+}
